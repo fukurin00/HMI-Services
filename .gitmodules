@@ -1,0 +1,15 @@
+[submodule "synerex-server"]
+	path = synerex-server
+	url = https://github.com/synerex/synerex_server.git
+[submodule "node-server"]
+	path = node-server
+	url = https://github.com/synerex/synerex_nodeserv.git
+[submodule "hmi-service"]
+	path = hmi-service
+	url = https://github.com/Harmoware/Provider_HMI-Service_Harmoware-WES.git
+[submodule "proxy-server"]
+	path = proxy-server
+	url = https://github.com/synerex/provider_proxy.git
+[submodule "cli-server"]
+	path = cli-server
+	url = https://github.com/fukurin00/CLI-provider_wes.git
